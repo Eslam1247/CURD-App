@@ -1,0 +1,13 @@
+
+// create
+// get total
+// create product
+// save date in localstorage
+// clear inputs for data
+//=============================================================================================//
+//read
+// count
+//delete products
+//update products
+//search
+// clean date
